@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html>
+<title>W3.CSS</title>
+<meta name="viewport" content="width=device-width, initial-scale=0.5">
+<link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
+<body>
+
+<div class="w3-container">
+ 
+</div>
+
+<div class="w3-container w3-blue">
+V1 Subject to Major Changes
+<h2>This is a Combination of emulator Sites
+</h2>
+ <p>‎</p>
+ <div class="w3-dropdown-hover">
+    <button class="w3-button w3-black">Site Selection</button>
+    <div class="w3-dropdown-content w3-bar-blue w3-border">
+     <!-- Drop down menu -->
+<p><a href="https://endrift.github.io/gbajs/" target="iframe_a" class="w3-bar-item w3-button">Gba.js</a></p>
+
+<p><a href="https://jquesnelle.github.io/mupen64plus-ui-console/
+" target="iframe_a" class="w3-bar-item w3-button">Mupen64 Plus </a>  
+      
+<p><a href="https://binbashbanana.github.io/webretro/?core=nestopia" target="iframe_a" class="w3-bar-item w3-button">Nestopia</a></p>
+      
+<p><a href="https://binbashbanana.github.io/webretro/?core=snes9x
+" target="iframe_a" class="w3-bar-item w3-button">Snes9x </a>  
+
+<p><a href="https://ds.44670.org/
+" target="iframe_a" class="w3-bar-item w3-button">DeSmuME </a>  
+    </div>
+  <p>‎</p>
+
+  </div>
+</div>
+</div>
+<iframe src="//media.discordapp.net/attachments/689296729241026722/920373196803412038/unknown.png?width=1200&height=750" name="iframe_a" height="750" width="1200" title="Iframe Example"></iframe>
+</body>
+</html>
